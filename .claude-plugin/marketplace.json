@@ -1,0 +1,12 @@
+{
+  "name": "jm-test-public",
+  "description": "Dummy marketplace for a sync test. No real content.",
+  "owner": { "name": "Jonathan" },
+  "plugins": [
+    {
+      "name": "test-plugin",
+      "source": "./plugins/test-plugin",
+      "description": "Dummy plugin for a sync test. No real content."
+    }
+  ]
+}

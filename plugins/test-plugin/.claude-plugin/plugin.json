@@ -1,0 +1,6 @@
+{
+  "name": "test-plugin",
+  "version": "0.0.1",
+  "description": "Dummy plugin for a sync test. No real content.",
+  "author": { "name": "Jonathan" }
+}
